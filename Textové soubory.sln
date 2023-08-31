@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Textové soubory", "Textové soubory\Textové soubory.csproj", "{392B3884-9015-40EB-9241-E92DDB08C52B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01", "01\01.csproj", "{D067C773-7B99-4EF2-9FD2-CCED6791A35D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{392B3884-9015-40EB-9241-E92DDB08C52B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{392B3884-9015-40EB-9241-E92DDB08C52B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{392B3884-9015-40EB-9241-E92DDB08C52B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D067C773-7B99-4EF2-9FD2-CCED6791A35D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D067C773-7B99-4EF2-9FD2-CCED6791A35D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D067C773-7B99-4EF2-9FD2-CCED6791A35D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D067C773-7B99-4EF2-9FD2-CCED6791A35D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
